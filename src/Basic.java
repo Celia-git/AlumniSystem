@@ -1,4 +1,4 @@
-package alumni.src;
+package src;
 
 import static java.lang.Character.*;
 import static java.lang.String.*;
