@@ -1,4 +1,4 @@
-package alumni.src;
+package src;
 
 import java.util.*;
 
